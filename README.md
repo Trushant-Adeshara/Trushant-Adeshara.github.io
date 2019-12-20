@@ -1,2 +1,2 @@
-# trushantadeshara.github.io
+# Trushant-Adeshara.github.io
 My Portfolio
