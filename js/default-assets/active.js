@@ -18,7 +18,7 @@
     // ****************************
 
     if ($.fn.classyNav) {
-        $('#alimeNav').classyNav();
+        $('#trushantNav').classyNav();
     }
 
     // *********************************
@@ -101,7 +101,7 @@
     // *********************************
 
     if ($.fn.imagesLoaded) {
-        $('.alime-portfolio').imagesLoaded(function () {
+        $('.trushant-portfolio').imagesLoaded(function () {
             // filter items on button click
             $('.portfolio-menu').on('click', 'button', function () {
                 var filterValue = $(this).attr('data-filter');
@@ -110,7 +110,7 @@
                 });
             });
             // init Isotope
-            var $grid = $('.alime-portfolio').isotope({
+            var $grid = $('.trushant-portfolio').isotope({
                 itemSelector: '.single_gallery_item',
                 percentPosition: true,
                 masonry: {

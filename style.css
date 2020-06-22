@@ -414,7 +414,7 @@ input:required {
 .btn:focus {
   box-shadow: none; }
 
-.alime-btn {
+.trushant-btn {
   position: relative;
   z-index: 1;
   min-width: 160px;
@@ -433,9 +433,9 @@ input:required {
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms; }
-  .alime-btn.btn-2 {
+  .trushant-btn.btn-2 {
     color: #252525; }
-  .alime-btn:focus, .alime-btn:hover {
+  .trushant-btn:focus, .trushant-btn:hover {
     font-weight: 500;
     -webkit-box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
     box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
@@ -1490,30 +1490,30 @@ input:required {
         color: #000000; }
 
 /* :: 15.0 Gallery CSS */
-.alime-portfolio-area {
+.trushant-portfolio-area {
   position: relative;
   z-index: 1; }
-  .alime-portfolio-area .container-fluid {
+  .trushant-portfolio-area .container-fluid {
     padding-right: 10%;
     padding-left: 10%; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .alime-portfolio-area .container-fluid {
+      .trushant-portfolio-area .container-fluid {
         padding-right: 5%;
         padding-left: 5%; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .alime-portfolio-area .container-fluid {
+      .trushant-portfolio-area .container-fluid {
         padding-right: 5%;
         padding-left: 5%; } }
     @media only screen and (max-width: 767px) {
-      .alime-portfolio-area .container-fluid {
+      .trushant-portfolio-area .container-fluid {
         padding-right: 5%;
         padding-left: 5%; } }
 
-.alime-projects-menu {
+.trushant-projects-menu {
   position: relative;
   z-index: 1;
   margin-bottom: 40px; }
-  .alime-projects-menu .portfolio-menu .btn {
+  .trushant-projects-menu .portfolio-menu .btn {
     position: relative;
     z-index: 1;
     padding: 0;
@@ -1527,10 +1527,10 @@ input:required {
     -o-transition-duration: 500ms;
     transition-duration: 500ms; }
     @media only screen and (max-width: 767px) {
-      .alime-projects-menu .portfolio-menu .btn {
+      .trushant-projects-menu .portfolio-menu .btn {
         font-size: 14px;
         margin: 0 5px; } }
-    .alime-projects-menu .portfolio-menu .btn::after {
+    .trushant-projects-menu .portfolio-menu .btn::after {
       -webkit-transition-duration: 500ms;
       -o-transition-duration: 500ms;
       transition-duration: 500ms;
@@ -1543,7 +1543,7 @@ input:required {
       left: 0;
       right: 0;
       z-index: 1; }
-    .alime-projects-menu .portfolio-menu .btn.active::after {
+    .trushant-projects-menu .portfolio-menu .btn.active::after {
       width: 100%; }
 
 .single-portfolio-content {
