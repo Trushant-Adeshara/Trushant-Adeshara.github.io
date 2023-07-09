@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* May, 2022 - Jun, 2023: Robotics Engineer
-  * Wastefull Insights Pvt. Ltd.
+* **Wastefull Insights: May, 2022 - Jun, 2023**
+* *Robotics Engineer*
   * Duties included:
     * Developing and maintaining CI/CD pipeline for waste segregation robot's software.
     * Leveraging GStreamer's functionality by developing vision pipelines using Nvidia DeepStream SDK.
