@@ -6,9 +6,10 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-6;
-  /* border-collapse: collapse; */
-  border: 1px solid $michigan-blue;
+  font-size: $type-size-5;
+  border-collapse: collapse; 
+  /* border: 1px solid $michigan-blue; */
+  /* border-top: 3px solid $michigan-blue; */
 
   & + table {
     margin-top: 1em;
@@ -16,23 +17,22 @@ table {
 }
 
 thead {
-  background-color: $michigan-blue;
-  border-bottom: 1px solid $michigan-blue; 
+  /* background-color: $michigan-blue; */
+  /* border-top: 3px solid $michigan-blue; */
 }
 
 th {
-  padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  /* border-right: 1px solid $light-gray; */
 }
 
 td {
-  padding: 0.5em;
-  border-bottom: 1px solid $michigan-blue;
-  border-right: 1px solid $michigan-blue; 
+  padding: 0.01em;
+  /* border-bottom: 1px solid $michigan-blue; */
+  /* border-right: 1px solid $michigan-blue; */
 }
 
 tr, td, th {
-  vertical-align: middle;
+  vertical-align: left;
 }
