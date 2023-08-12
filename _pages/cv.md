@@ -13,48 +13,53 @@ Education
 ======
 <hr>
 
-| *2023 - Present* | **M.S. in Robotics, University of Michigan**                                   |
-| *2018 - 2022*    | **B.E. in Computer Science and Engineering, Gujarat Technological University** |
+| Degree, University / School                                                | Grade       |Duration |  
+| :---                                                                       | :---        |    ---: |
+| M.S. in Robotics, University of Michigan                                   |             | *Jul, 2023 - Present* |
+| B.E. in Computer Science and Engineering, Gujarat Technological University | CGPA 9.8    | *Jun, 2018 - May, 2022* |
+| Secondary & Higher Secondary Education, Bright School                      | First Class | *May, 2018 - Jun, 2015* |
 
 <br>
 
-Work experience
+Work Experience
 =====
 <hr>
 
-| *May, 2022 - Jun, 2023* | **Robotics Engineer, Wastefull Insights** |  
+|                                                           |                         |
+| :---                                                      |                    ---: | 
+| **Robotics Engineer  -   Wastefull Insights**             | *Jun, 2022 - Jun, 2023* |
 
-* Duties included:
-  * Developing and maintaining CI/CD pipeline for waste segregation robot's software. 
-  * Leveraging GStreamer's functionality by developing vision pipelines using Nvidia DeepStream SDK. 
-  * Aided in hiring interns and guiding them towards migrating/optimizing existing codebase. 
+* Developed and maintained CI/CD pipeline for waste segregation robot's software.
+* Leveraged GStreamer's functionality by developing vision pipelines using Nvidia DeepStream SDK.
+* Aided in hiring interns and guiding them towards migration/optimization of existing codebase.
 
-|                         |                                         |
-| *Jan, 2022 - May, 2022* | **Robotics Intern, Wastefull Insights** |
 
-* Duties included:
-  * Developed scheduling-based optimization algorithm for pick and place waste segregation robot.
-  * Designed software system architecture of gantry system in ROS with modularity as a primary consideration.
-  * Devised marker-based velocity estimation algorithm and implemented it with ROS.
-  * Designed and integrated web-based UI for robot control and monitoring using rosbridge with rosjs.
-  * Customized Kalman Tracker to accommodate optimization algorithm on top of ROS communication layer.
-  * Worked towards development of diagnostic tool which validates system's working efficacy.
+|                                            |                         |
+| :---                                       |                    ---: |
+| **Robotics Intern  -  Wastefull Insights** | *Jan, 2022 - May, 2022* |
 
-|                         |                                       |
-| *Jun, 2021 - Aug, 2021* | **Robotics Software Intern, Botsync** | 
+* Developed scheduling-based optimization algorithm for pick and place waste segregation robot.
+* Designed software system architecture of gantry system in ROS with modularity as a primary consideration.
+* Devised marker-based velocity estimation algorithm and implemented it with ROS.
+* Designed and integrated web-based UI for robot control and monitoring using rosbridge with rosjs.
+* Customized Kalman Tracker to accommodate optimization algorithm on top of ROS communication layer.
+* Worked towards development of diagnostic tool which validates system's working efficacy.
 
-* Duties included:
-  * Developed multi-robot behavioural graph in Open-RMF for collision-free task execution of AMRs.
-  * Worked towards code migration for charging processes from python to C++ in ROS.
-  * Performed accuracy tests for AMRs for docking and charging.
-  * Gained experience working in a dynamic and fast-paced environments of a startup.
+|                                            |                         |
+| :---                                       |                    ---: | 
+| **Robotics Software Intern   -   Botsync** | *Jun, 2021 - Aug, 2021* |
 
-|                         |                                         |
-| *May, 2020 - Jul, 2020* | **Summer Intern, e-Yantra, IIT Bombay** |
+* Developed multi-robot behavioural graph in Open-RMF for collision-free task execution of AMRs.
+* Worked towards code migration for charging processes from python to C++ in ROS.
+* Performed accuracy tests for AMRs for docking and charging.
+* Gained experience working in a dynamic and fast-paced environments of a startup.
 
-* Duties included:
-  * Designed UI/UX design for dashboard including mock on Figma with site map and programmed the same theme in Bootstrap.
-  * Integrated data visualization library like chart.js for bar graph or line chart generation and leaflet for depicting clusters by geography on a 2D map.
+|                                            |                         |
+| :---                                       |                    ---: |
+| **Summer Intern  -  e-Yantra, IIT Bombay** | *May, 2020 - Jul, 2020* |
+
+* Designed UI/UX design for dashboard including mock on Figma with site map and programmed the same theme in Bootstrap.
+* Integrated data visualization library like chart.js for bar graph or line chart generation and leaflet for depicting clusters by geography on a 2D map.
 
 <br>
   
@@ -83,15 +88,18 @@ Skills
 
 <br>
 
+<!---
 Publications
 ======
 <hr>
+
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 <br>
+--->
   
 Talks
 ======
@@ -103,8 +111,10 @@ Talks
 
 <br>
   
-Service and leadership
+Service and Leadership
 ======
 <hr>
 
-* Currently signed in to 43 different slack teams
+* Member of [Young Indians (Yi)](https://youngindians.net/) and [Confederation of Indian Industry (CII)](https://www.cii.in/).
+  * Assisted in organizing G20 Events for Health, Innovation and Entrepreneurship.
+  * Inspired college youth to take up responsibility pertaining to road safety and climate change.
