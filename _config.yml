@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+x:
+  username               : &x
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Trushant Adeshara"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Robotics Researcher Connecting Bits with Qubits"
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_trushant_"
   vine             :
   weibo            :
   xing             :
