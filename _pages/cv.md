@@ -16,7 +16,7 @@ Education
 | Degree, University / School                                                | Grade       |Duration |  
 | :---                                                                       | :---        |    ---: |
 | M.S. in Robotics, University of Michigan                                   |             | *Jul, 2023 - Present* |
-| B.E. in Computer Science and Engineering, Gujarat Technological University | CGPA 9.8    | *Jun, 2018 - May, 2022* |
+| B.E. in Computer Science and Engineering, Gujarat Technological University | CGPA 9.8/10 | *Jun, 2018 - May, 2022* |
 | Secondary & Higher Secondary Education, Bright School                      | First Class | *May, 2018 - Jun, 2015* |
 
 <br>
@@ -29,21 +29,18 @@ Work Experience
 | :---                                                      |                    ---: | 
 | **Robotics Engineer  -   Wastefull Insights**             | *Jun, 2022 - Jun, 2023* |
 
-* Developed and maintained CI/CD pipeline for waste segregation robot's software.
-* Leveraged GStreamer's functionality by developing vision pipelines using Nvidia DeepStream SDK.
-* Aided in hiring interns and guiding them towards migration/optimization of existing codebase.
+* Developed CI/CD pipeline for containerized environments of multiple robots to reach deployment time under 20 minutes.
+* Leveraged GStreamer's functionality by developing vision pipelines using Nvidia DeepStream SDK and reduced image processing latency by shifting from frame-based approach to UDP.
+* Aided in hiring interns and guiding them towards optimizing the existing code base by shifting it from python to C++.
 
 
 |                                            |                         |
 | :---                                       |                    ---: |
 | **Robotics Intern  -  Wastefull Insights** | *Jan, 2022 - May, 2022* |
 
-* Developed scheduling-based optimization algorithm for pick and place waste segregation robot.
-* Designed software system architecture of gantry system in ROS with modularity as a primary consideration.
-* Devised marker-based velocity estimation algorithm and implemented it with ROS.
-* Designed and integrated web-based UI for robot control and monitoring using rosbridge with rosjs.
-* Customized Kalman Tracker to accommodate optimization algorithm on top of ROS communication layer.
-* Worked towards development of diagnostic tool which validates system's working efficacy.
+* Developed scheduling-based optimization algorithm for pick and place waste segregation robot and increased throughput efficienty from 20 pick/hour to 60 pick/hour.
+* Devised marker-based belocity estimation algorithm to estimate the speed of conveyor just using camera feed.
+* Customized Kalman Tracker to accomodate scheduling approach on top of ROS.
 
 |                                            |                         |
 | :---                                       |                    ---: | 
