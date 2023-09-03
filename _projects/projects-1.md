@@ -16,7 +16,7 @@ Task 1.1 - Position hold of the drone in a simulation
 </p>
 
 <p style="text-align: justify">
-<iframe width="420" height="315" src="https://youtu.be/xRDrj8BBL4Y" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="420" height="315" src="https://youtube.com/watch?v=xRDrj8BBL4Y&feature=shared" frameborder="0" allowfullscreen></iframe></p>
 
 <p style="text-align: justify">
 Task 1.2 - Waypoint navigation of the drone in a simulation
