@@ -25,22 +25,22 @@ The project wasn't just about simulation; it also involved building two physical
 <img src='/images/projects/ros_rover/sf.png'></p>
 
 <p style="text-align: justify">
-1. **Drive System**: This system allowed manual control of the rover by a human operator and could override autonomous control in emergencies. I considered using a joystick package from ROS to send velocity commands to the rover.</p>
+1. <b>Drive System</b>: This system allowed manual control of the rover by a human operator and could override autonomous control in emergencies. I considered using a joystick package from ROS to send velocity commands to the rover.</p>
 
 <p style="text-align: justify">
-2. **Visual Feedback System**: This system was all about seeing what the rover sees. Here, the RViz package from ROS came to the rescue. The BL170 camera provided a real-time stream over RTSP, ensuring low-latency transmission.</p>
+2. <b>Visual Feedback System</b>: This system was all about seeing what the rover sees. Here, the RViz package from ROS came to the rescue. The BL170 camera provided a real-time stream over RTSP, ensuring low-latency transmission.</p>
 
 <p style="text-align: justify">
-3. **GPS System**: Although part of the Autonomous System, it was worth explaining separately. GPS data was used for monitoring long-distance tasks and providing visualization feedback on MapViz. Additionally, it enabled us to set goals on the map, which the rover could then execute.</p>
+3. <b>GPS System</b>: Although part of the Autonomous System, it was worth explaining separately. GPS data was used for monitoring long-distance tasks and providing visualization feedback on MapViz. Additionally, it enabled us to set goals on the map, which the rover could then execute.</p>
 
 <p style="text-align: justify">
-4. **Autonomous System**: The heart of the project, this system guided the rover to reach and execute goals. The rover featured a depth camera to avoid obstacles in its path, LiDAR for mapping and navigation, and a tracking camera for recalibrating LiDAR in case of false localization. The IMU played a crucial role in keeping the rover's motion in check.</p>
+4. <b>Autonomous System</b>: The heart of the project, this system guided the rover to reach and execute goals. The rover featured a depth camera to avoid obstacles in its path, LiDAR for mapping and navigation, and a tracking camera for recalibrating LiDAR in case of false localization. The IMU played a crucial role in keeping the rover's motion in check.</p>
 
 <p style="text-align: justify">
-5. **Odometry System**: This system received feedback from the motors when velocity commands were issued by either the Autonomous System or the Drive System. Using tick odometry, the motors were controlled more efficiently.</p>
+5. <b>Odometry System</b>: This system received feedback from the motors when velocity commands were issued by either the Autonomous System or the Drive System. Using tick odometry, the motors were controlled more efficiently.</p>
 
 <p style="text-align: justify">
-6. **Navigation Stack**: When a specific task was assigned to the rover, it would map the environment on the fly if the map wasn't already available. The Cost Map included an obstacle layer for dynamic obstacles and a static layer for objects expected to remain stationary. The Global planner generated the overall path, while the local planner was continually adapted for shorter durations.</p>
+6. <b>Navigation Stack</b>: When a specific task was assigned to the rover, it would map the environment on the fly if the map wasn't already available. The Cost Map included an obstacle layer for dynamic obstacles and a static layer for objects expected to remain stationary. The Global planner generated the overall path, while the local planner was continually adapted for shorter durations.</p>
 
 <p style="text-align: justify">
 Regarding hardware, we considered two flow diagrams. The major differences revolved around the power of actuators, the number of sensors, and the single-board computer in use.</p>

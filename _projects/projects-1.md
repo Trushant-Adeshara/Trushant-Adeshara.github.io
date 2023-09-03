@@ -8,10 +8,10 @@ collection: projects
 e-Yantra Robotics Competition is a 6 month long competition wherein you are allocated a theme and there are tasks which need to be accomplished in a team of 4. The themes are based on real world problems and we were assigned Survey and Rescue theme in which we have to develop a pre-emptive scheduling algorithm for a drone which will aid individuals afflicted by natural disaster.</p>
 
 <p style="text-align: justify">
-**Task 0** was setting up the system and the simulator we used was Gazebo. Other software we used was ROS (Robot Operating System) Kinetic and underlying operating system was Ubuntu 16.04. Primary language of implementation was python. Once that is done, we recevied Task 1 which was as follow:</p>
+<b>Task 0</b> was setting up the system and the simulator we used was Gazebo. Other software we used was ROS (Robot Operating System) Kinetic and underlying operating system was Ubuntu 16.04. Primary language of implementation was python. Once that is done, we recevied Task 1 which was as follow:</p>
 
 <p style="text-align: justify">
-**Task 1.1** - Position hold of the drone in a simulation
+<b>Task 1.1</b> - Position hold of the drone in a simulation
 	   The drone should hold its position in the given simulation scene at the given point [2, 2, 20] using the PID control algorithm.
 </p>
 
@@ -19,7 +19,7 @@ e-Yantra Robotics Competition is a 6 month long competition wherein you are allo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xRDrj8BBL4Y?si=0mCUtrI0Pf1qUYVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: justify">
-**Task 1.2** - Waypoint navigation of the drone in a simulation
+<b>Task 1.2</b> - Waypoint navigation of the drone in a simulation
 	   The drone should visit the given waypoint coordinates in the simulation using the PID control algorithm. Waypoings are in the form (x, y, z).
 	   [(0.2, 0, 23), (3.5, -3.3, 23), (-4.4, -4.6, 20.7), (-6.0, 6.3, 18.3), (5.0, 5.3, 16.3)]
 </p>
