@@ -5,7 +5,7 @@ collection: projects
 ---
 
 <p style="text-align: justify">
-Robofest, an annual project competition organized by GUJCOST, provided me with an exciting opportunity during my sophomore year. I embarked on a journey to create a captivating project proposal for Robofest 2.0.</p>
+Robofest, an annual project competition organized by GUJCOST, provided me with an exciting opportunity during my sophomore year. I embarked on a journey to create a captivating project proposal for a ROS based Rover.</p>
 
 The competition had a three-phase structure:
 1. **Phase-1**: Develop a Proof of Concept (PoC)
@@ -13,13 +13,13 @@ The competition had a three-phase structure:
 3. **Phase-3**: Develop a Full-Fledged System
 
 <p style="text-align: justify">
-I chose to focus on the development of a ROS-based Rover for my project, with guidance from Dr. Avani R. Vasant, the Head of the Department of Computer Science and Engineering at BITs EDU Campus. Since this was my first time, our initial step was to submit the proposal and then assemble the team later.</p>
+I chose to focus on the development of a ROS-based Rover for my project, with guidance from Dr. Avani R. Vasant, the Head of the Department of Computer Science and Engineering at BITs EDU Campus. Since this was my first time, our initial step was to submit the proposal and then assemble the team upon selection.</p>
 
 <p style="text-align: justify">
 In terms of software, I opted for the Robot Operating System (ROS) due to my prior experience with it. ROS proved to be an ideal choice for both rapid prototyping and the creation of industry-grade software.</p>
 
 <p style="text-align: justify">
-The project wasn't just about simulation; it also involved building two physical rovers. To tackle this complex task, I broke down the entire system into smaller, manageable subsystems:</p>
+The project wasn't just about simulation; it also involved building two physical rovers. To tackle this complex task, I broke down the entire system into smaller, manageable subsystems as follow:</p>
 
 <p style="text-align:center">
 <img src='/images/projects/ros_rover/sf.png'></p>
@@ -49,4 +49,4 @@ Regarding hardware, we considered two flow diagrams. The major differences revol
 <img src='/images/projects/ros_rover/hw.jpg'></p>
 
 <p style="text-align: justify">
-Though I didn't qualify for the next round, I learnt how to make system and software architecture for robotics systems - rovers.</p>
+Though I didn't qualify for the next round, I learnt how to design system and software architecture for robotics systems - Rovers.</p>
