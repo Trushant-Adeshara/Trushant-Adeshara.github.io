@@ -9,6 +9,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Work Experience"
+    url: /work/
+
   - title: "Projects"
     url: /projects/
     
